@@ -10,4 +10,4 @@
 
 # dollar bon mais pas echo 
 
-#pipe_handling n'est rellie a rien et pareil pour adv_redirection
+# pipe_handling n'est rellie a rien et pareil pour adv_redirection
