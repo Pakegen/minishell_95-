@@ -13,3 +13,5 @@
 # pipe_handling n'est rellie a rien et pareil pour adv_redirection
 
 # refaire a tour du cote du paarsing
+
+# echo prend tout la ligne de commande 
